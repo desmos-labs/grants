@@ -1,4 +1,5 @@
 # Desmos foundation grant form disclaimer
+## 17/02/22
 #### This disclaimer refers to the following [form](https://docs.google.com/forms/d/1cjrQd89_4y2h9BrbvJhZJ_ZwP_4pi9Qh759V6SjG29w/).
 
 * This document is for general information purposes only, and is subject to change or update.
